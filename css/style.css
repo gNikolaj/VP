@@ -9,11 +9,12 @@ body {
 
 .main-content {
     margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
     justify-content: center;
     background-color: #F9EBC8;
     display: flex;
     height: 90vh;
-
     font-size: 100px;
 }
 
