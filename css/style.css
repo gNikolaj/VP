@@ -7,16 +7,31 @@ body {
 
 }
 
+.hidden {
+    display: none;
+}
+
+.form {
+    margin: 0 auto;
+    padding: 40px 20px;
+    max-width: 300px;
+    background-color: #555555;
+    position: relative;
+}
+
+.form input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
 .main-content {
     margin-top: 15px;
     margin-left: 20px;
     margin-right: 20px;
-    justify-content: center;
     background-color: #F9EBC8;
-    display: flex;
     height: 90vh;
-    font-size: 100px;
-}
+    }
 
 .nav-list {
     text-align: center;
